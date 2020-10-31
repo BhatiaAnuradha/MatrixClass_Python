@@ -1,7 +1,4 @@
-# Udacity_MatrixClass
-Udacity Intro to Self-Driving Class Assignment
-
-Implementing a matrix class in python with the following methods:
+Implementing a matrix class in Python with the following methods:
   
   determinant(self)
   
