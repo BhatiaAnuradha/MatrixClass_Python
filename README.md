@@ -6,7 +6,7 @@ A matrix class in Python which allows for matrix operations for 1x1 and 2x2 matr
   
   # Examples
   
-  ** Define Matrix**
+  **Define Matrix**
   
   `mat_1 = Matrix([[1,2],[3,4]])`
   
