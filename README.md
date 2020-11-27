@@ -1,8 +1,11 @@
 Implementing a matrix class in Python with the following methods for 1x1 and 2x2 matrices:
-  #Usage
+  
+  # Usage
+  
   import matrix as m
   
-  #Examples:
+  # Examples:
+  
   mat_1 = [[1,2,3],[4,5,6],[7,8,9]]
   
   //To find the determinant of the matrix
