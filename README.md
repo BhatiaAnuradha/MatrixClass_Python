@@ -1,21 +1,8 @@
 Implementing a matrix class in Python with the following methods for 1x1 and 2x2 matrices:
+  #Usage
+  import matrix as m
   
-  determinant(self)
-  
-  trace(self)
-  
-  inverse(self)
-  
-  transpose(self):
-  
-  __add__(self,other)
-  
-  __sub__(self,other)
-  
-  __mul__(self,other)
-  
-  
-  Examples:
+  #Examples:
   mat_1 = [[1,2,3],[4,5,6],[7,8,9]]
   
   //To find the determinant of the matrix
